@@ -1,0 +1,22 @@
+{
+  "name": "css-lib",
+  "version": "0.0.1",
+  "description": "css-lib,css样式预设库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisWood-CN/css-lib.git"
+  },
+  "keywords": [
+    "css样式"
+  ],
+  "author": "chriswood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisWood-CN/css-lib/issues"
+  },
+  "homepage": "https://github.com/ChrisWood-CN/css-lib#readme"
+}
